@@ -1,1 +1,254 @@
-
+[
+    {
+        "id": 1,
+        "title": "Kaloud Lotus I+",
+        "price": 64.95,
+        "description": "The Kaloud Lotus I+ Hookah Heat Management Device (HMD) regulates the transfer of heat from charcoal to Shisha, and also works to reduce the ash, ultra-fine particles, and volatile gasses that pass from charcoal into Shisha making your clouds smoother, cleaner, tastier, longer-lasting.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/181127_Kaloud_Products32956_900x.jpg?v=1615425065",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 2,
+        "title": "Kaloud Lotus I+ Auris",
+        "price": 64.95,
+        "description": "The Kaloud Lotus I+ Auris \"the Gold Lotus\" Hookah Heat Management Device (HMD) regulates the transfer of heat from charcoal to Shisha, and also works to reduce the ash, ultra-fine particles, and volatile gasses that pass from charcoal into Shisha making your clouds smoother, cleaner, tastier, longer-lasting.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/L1OutPackaging_Small_2bea9cd4-99f3-47e8-abca-2e6b9fc47528_900x.jpg?v=1615424744",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 3,
+        "title": "Kaloud Lotus I+ Azuris",
+        "price": 64.95,
+        "description": "The Kaloud Lotus I+ Azuris \"the Blue Lotus\" Hookah Heat Management Device (HMD) regulates the transfer of heat from charcoal to Shisha, and also works to reduce the ash, ultra-fine particles, and volatile gasses that pass from charcoal into Shisha making your clouds smoother, cleaner, tastier, longer-lasting.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/L1AzurisOutPackagingSmall_900x.jpg?v=1615424706",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 4,
+        "title": "Kaloud Lotus I+ Niris",
+        "price": 64.95,
+        "description": "The Kaloud Lotus I+ Niris \"the Black Lotus\" Hookah Heat Management Device (HMD) regulates the transfer of heat from charcoal to Shisha, and also works to reduce the ash, ultra-fine particles, and volatile gasses that pass from charcoal into Shisha making your clouds smoother, cleaner, tastier, longer-lasting.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/200109_Kaloud_Products0212_900x.jpg?v=1615424908",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 5,
+        "title": "Kaloud Lotus II",
+        "price": 74.95,
+        "description": "The Kaloud Lotus II Hookah Heat Management Device (HMD) regulates the transfer of heat from charcoal to Shisha, and also works to reduce the ash, ultra-fine particles, and volatile gasses that pass from charcoal into Shisha making your clouds smoother, cleaner, tastier, longer-lasting.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/181127_Kaloud_Products32818_01_900x.jpg?v=1615425051",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 6,
+        "title": "Kaloud Lotus II Argis",
+        "price": 109.95,
+        "description": "The Kaloud Lotus II Argis is a Hookah Heat Management Device made of very high-quality Stainless Steel, which means you can preheat it.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Lotus_II_Argis_Unboxed_Small_b9305de9-5bac-42e3-8289-8f1c0507dbf9_900x.jpg?v=1615424950",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 7,
+        "title": "Kaloud Lotus II Auris",
+        "price": 109.95,
+        "description": "The Kaloud Lotus II Auris is a Hookah Heat Management Device made of very high-quality Stainless Steel, which means you can preheat it.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Lotus_II_Auris_Unboxed_Small_b73362d6-eebb-4682-bf1b-795b4133cd0c_900x.jpg?v=1615424943",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 8,
+        "title": "Kaloud Lotus II Cyris",
+        "price": 109.95,
+        "description": "The Kaloud Lotus II Cyris is a Hookah Heat Management Device made of very high-quality Stainless Steel, which means you can preheat it.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Lotus_II_Cyris_Unboxed_Small_135473be-9bed-4da5-ada7-c5b9f85b7b9a_900x.jpg?v=1615424935",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 9,
+        "title": "Kaloud Lotus II Niris",
+        "price": 109.95,
+        "description": "The Kaloud Lotus II Niris is a Hookah Heat Management Device made of very high-quality Stainless Steel, which means you can preheat it.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Lotus_II_Niris_Unboxed_Small_8c3a924d-32a4-46a3-a38d-961e95aaac50_900x.jpg?v=1615424927",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 10,
+        "title": "Kaloud Lotus II Nubis",
+        "price": 109.95,
+        "description": "The Kaloud Lotus II Nubis is a Hookah Heat Management Device made of very high-quality Stainless Steel, which means you can preheat it.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Lotus_II_Nubis_Unboxed_Small_ea1ee267-728a-45c4-ad0c-a98b3878e252_900x.jpg?v=1615424920",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 11,
+        "title": "Kaloud Lotus III",
+        "price": 109.95,
+        "description": "We've sought to improve on the Lotus I and Lotus II in every way possible and we believe we've accomplished that mission. The Lotus III Niris + Auris is made from stainless steel, which means you can preheat it. We've added sleek, built-in handles, for the lid and base which offer smooth rotation allows for easy heat management and removal of the Lotus III from your Samsaris or other Hookah Bowl. With Niris + Auris, your Lotus III features a black outer shell that reveals a gold inner layer.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/210916_Kaloud_Products16034_1e47d6a7-501d-4392-9958-6abba41a4668_900x.jpg?v=1636668107",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 12,
+        "title": "Kaloud Lotus III Auris + Niris",
+        "price": 109.95,
+        "description": "We've sought to improve on the Lotus I and Lotus II in every way possible and we believe we've accomplished that mission. The Lotus III Niris + Auris is made from stainless steel, which means you can preheat it. We've added sleek, built-in handles, for the lid and base which offer smooth rotation allows for easy heat management and removal of the Lotus III from your Samsaris or other Hookah Bowl. With Niris + Auris, your Lotus III features a black outer shell that reveals a gold inner layer.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/aurisnirs_900x.png?v=1637795444",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 13,
+        "title": "Kaloud Lotus III Niris + Argis",
+        "price": 109.95,
+        "description": "We've sought to improve on the Lotus I and Lotus II in every way possible and we believe we've accomplished that mission. The Lotus III Niris + Auris is made from stainless steel, which means you can preheat it. We've added sleek, built-in handles, for the lid and base which offer smooth rotation allows for easy heat management and removal of the Lotus III from your Samsaris or other Hookah Bowl. With Niris + Auris, your Lotus III features a black outer shell that reveals a gold inner layer.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/nirsargis_900x.png?v=1637795540",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 14,
+        "title": "Kaloud Lotus III Niris + Auris",
+        "price": 109.95,
+        "description": "We've sought to improve on the Lotus I and Lotus II in every way possible and we believe we've accomplished that mission. The Lotus III Niris + Auris is made from stainless steel, which means you can preheat it. We've added sleek, built-in handles, for the lid and base which offer smooth rotation allows for easy heat management and removal of the Lotus III from your Samsaris or other Hookah Bowl. With Niris + Auris, your Lotus III features a black outer shell that reveals a gold inner layer.",
+        "category": "HMD",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/nrisauris_900x.png?v=1637795564",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 15,
+        "title": "Kaloud Krysalis Anahata Edition",
+        "price": 4450,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Anahata_Face_Small_67c1d972-73e7-422d-80c0-3001759836c3_900x.jpg?v=1615424970",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 16,
+        "title": "Kaloud Krysalis Astral Edition",
+        "price": 4450,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Astral-Face-SM_900x.jpg?v=1615424993",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 17,
+        "title": "Kaloud Krysalis Eltheria Black",
+        "price": 499.95,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Eltheria_Black_Side_Two_900x.jpg?v=1615424897",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 18,
+        "title": "Kaloud Krysalis Eltheria Lucidity",
+        "price": 499.95,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Untitled-1-11_900x.jpg?v=1629317615",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 19,
+        "title": "Kaloud Krysalis Eltheria White",
+        "price": 499.95,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Eltheria_White_Side_One_900x.jpg?v=1615424882",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 20,
+        "title": "Kaloud Krysalis Hayat Edition",
+        "price": 4450,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Hayat_Face_Small_b5c2ca8d-ce54-43e4-bcd3-887f25e5a7fc_900x.jpg?v=1615425007",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    },
+    {
+        "id": 21,
+        "title": "Kaloud Krysalis Shakti Edition",
+        "price": 4450,
+        "description": "The Kaloud Krysalis is not a Hookah... It's a Krysalis. The world's first. It draws upon more than 500-years of tradition and innovation and emerges reborn as something new; something unknown.",
+        "category": "Hookah",
+        "image": "https://cdn.shopify.com/s/files/1/0440/6584/9505/products/Shakti_Face_Small_48dccad5-4336-41c6-bfd5-53ac6ff1ac94_900x.jpg?v=1615424979",
+        "rating": {
+            "rate": 3.9,
+            "count": 120
+        }
+    }
+]
